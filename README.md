@@ -66,6 +66,7 @@ java adoptopenjdk-11.0.16+8
 
 ## JAVA_HOME
 To set `JAVA_HOME` in your shell's initialization add the following:
+> If asdf is not installed in default directory, use $ASDF_DATA_DIR
 
 `. ~/.asdf/plugins/java/set-java-home.bash`
 
